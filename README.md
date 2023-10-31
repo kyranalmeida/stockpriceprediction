@@ -17,7 +17,7 @@ To install the dependencies, run the following command:
 
 Running the application
 To run the application, navigate to the project directory and run the following command:
-**streamlit run main.py**
+**streamlit run loginandpage.py**
 
 Usage
 Once the application is running, users can select a stock and a time period by entering the stock ticker and start and end dates in the corresponding fields. The application will then generate a prediction of the stock price for the next day.
