@@ -1,6 +1,6 @@
 **README**
 
-**Stock Price Prediction on Streamlit**
+## Stock Price Prediction on Streamlit
 
 This Python project uses Streamlit to create a web application for predicting stock prices. The application allows users to select a stock and a time period, and then generates a prediction of the stock price for the next day.
 
@@ -32,4 +32,3 @@ Contributions are welcome! To contribute to this project, please fork the reposi
 
 License
 This project is licensed under the MIT License
-# stockpriceprediction
